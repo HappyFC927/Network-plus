@@ -71,3 +71,12 @@
 
 - **Performance Issues**
   - Latency, Packet Loss, Bandwidth Bottlenecks
+ 
+## How to Practice These Concepts
+- Recreate & Expand Each Map – Add tools, services, or threats related to each topic.
+- Hands-on Labs – Set up virtual networks using Cisco Packet Tracer or GNS3.
+- Flashcards & Quizzes – Reinforce key definitions and protocols.
+- Simulate Network Issues – Practice troubleshooting scenarios.
+
+
+
